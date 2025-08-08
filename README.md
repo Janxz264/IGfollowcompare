@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # IGfollowcompare
 Compare raw JSON lists from IG to textdiff for unmatching followers/following accounts.
-=======
+
 # Instagram Follower Diff Tool
 
 🧭 A lightweight, local script to compare your Instagram **followers** and **following** lists using the official data export. Helps identify:
