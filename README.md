@@ -56,4 +56,3 @@ Fans you don't follow (19):
 - fanA
 - fanB
 ...
->>>>>>> 36c0d8c (First commit, will test later)
