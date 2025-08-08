@@ -45,7 +45,7 @@ def load_followers_following(root_dir):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python ig_diff.py /path/to/extracted/instagram-data")
+        print("Usage: python compare.py /path/to/extracted/instagram-data")
         sys.exit(1)
 
     root = sys.argv[1]
@@ -61,7 +61,7 @@ def main():
     for u in not_following_back:
         print(u)
     print()
-    print(f"Fans you don't follow ({len(fans_you_dont_follow)}):")
+    print(f"Followers you don't follow ({len(fans_you_dont_follow)}):")
     for u in fans_you_dont_follow:
         print(u)
 
