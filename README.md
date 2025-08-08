@@ -37,7 +37,6 @@ Compare raw JSON lists from IG to textdiff for unmatching followers/following ac
 2. Extract the ZIP archive
 3. Run the script:
 
-```
 ```python compare.py /path/to/extracted/data ```
 
 Example:
