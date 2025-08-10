@@ -17,7 +17,7 @@ Compare raw JSON lists from IG to textdiff for unmatching followers/following ac
 - Parses Instagram's downloaded JSON archive
 - Outputs clean lists for:
   - ✅ Not following you back
-  - ✅ Fans you don't follow
+  - ✅ Followers you don't follow
 - No network requests, login, or scraping
 - Supports multiple `followers_*.json` files
 - Can be extended for historical tracking or GUI
@@ -51,7 +51,7 @@ Not following you back (41):
 - username2
 ...
 
-Fans you don't follow (19):
-- fanA
-- fanB
+Followers you don't follow (19):
+- usernameA
+- usernameB
 ...
